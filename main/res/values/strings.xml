@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="identifiant">texte</string>
+    <string name="day_tips">pensée du jour</string>
+    <string name="ok">OK</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="col_two">col2</string>
+    <string name="sportTitre">Resultat Sportif</string>
+    <string name="sportNom">Nom de la Competition</string>
+    <string name="sportGagnant">Nom du Gagnant</string>
+    <string name="sportDate">Date de la Competition</string>
+    <string name="sportScore">Score</string>
+    <string name="sportCommentaire">Votre Commentaire</string>
+    <string name="sportValider">Valider</string>
+    <string name="domoTitre">Domotique</string>
+    <string name="domoSwitch">Allumer la musique d\'Ambiance</string>
+    <string name="domoTemp">Regler la température</string>
+    <string name="domoLumiere">Regler l\'éclairage</string>
+    <string name="domoFen">Ouvrir les volets</string>
+</resources>
